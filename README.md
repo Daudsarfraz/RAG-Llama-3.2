@@ -1,6 +1,6 @@
-# 🚀 Building a Robust RAG System with Cutting-Edge Tools!
+# 🚀 RAG System with Llama 3.2!
 
-Excited to share my journey of creating a **Retrieval-Augmented Generation (RAG)** system using an impressive tech stack:
+ **Retrieval-Augmented Generation (RAG)** 
 
 ## 🔧 Tools & Technologies:
 
